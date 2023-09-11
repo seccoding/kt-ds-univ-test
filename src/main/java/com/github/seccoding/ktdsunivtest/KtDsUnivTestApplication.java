@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KtDsUnivTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KtDsUnivTestApplication.class, args);
+		SpringApplication.run(KtDsUnivTestApplication.class, args); 
 	}
 
 }
